@@ -144,13 +144,87 @@ Both Excel versions have been tested in Microsoft Excel, including Excel Mobile.
 
 ## 📁 Repository Structure
 
-```text
-excel-integrated-business-management-system/
-│
-├── HMexcelpro_Integrated_Business_Management_System_EN.xlsx
-├── HMexcelpro_Integrated_Business_Management_System_FA.xlsx
-├── HMexcelpro_Integrated_Business_Management_System_Bilingual_Guide.pdf
-├── README.md
-│
-└── Screenshots/
-    └── integrated-business-dashboard.png
+**excel-integrated-business-management-system/**
+
+- `HMexcelpro_Integrated_Business_Management_System_EN.xlsx`
+- `HMexcelpro_Integrated_Business_Management_System_FA.xlsx`
+- `HMexcelpro_Integrated_Business_Management_System_Bilingual_Guide.pdf`
+- `README.md`
+- **Screenshots/**
+  - `integrated-business-dashboard.png`
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Microsoft Excel
+- Excel Dashboard Design
+- Data Analysis
+- Data Visualization
+- Business Reporting
+- KPI Reporting
+- Sales Analysis
+- Financial Reporting
+- Profitability Analysis
+- Inventory Management
+- HR Reporting
+- Employee Performance Reporting
+- Cross-Module Workbook Design
+- English & Persian Excel Delivery
+
+---
+
+## 💡 Use Cases
+
+This type of workbook can be adapted for:
+
+- Small and medium-sized businesses
+- Sales management
+- Management reporting
+- Financial monitoring
+- Inventory control
+- Employee performance reporting
+- KPI tracking
+- Executive reporting
+
+---
+
+## ⚠️ Project Scope
+
+This project demonstrates Excel-based business reporting, analysis, and connected workbook design.
+
+The current version does **not** claim:
+
+- VBA automation
+- SQL integration
+- API integration
+- Power BI integration
+- Enterprise ERP functionality
+
+These capabilities should only be added to the project description if they are actually implemented in a future version.
+
+Sample data is included for portfolio and demonstration purposes. A production implementation should be validated and customized according to the actual business rules and data of the client.
+
+---
+
+## 👨‍💻 About HMexcelpro
+
+HMexcelpro focuses on practical Microsoft Excel solutions for:
+
+- Business Dashboards
+- Data Analysis
+- Financial Reporting
+- Inventory Management
+- HR Reporting
+- KPI Monitoring
+- Management Reporting
+
+Portfolio projects are available in both **English and Persian**.
+
+---
+
+## 📫 Freelance Work
+
+Available for custom Excel dashboard, reporting, data cleaning, analysis, and business management projects.
+
+**HMexcelpro — Excel Dashboard Developer | Data Analysis | Business Reporting | EN & FA**
